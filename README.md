@@ -11,6 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter İle QRCode Uygulaması Yapımı](https://dev-kerimbora.medium.com/flutter-i%CC%87le-qrcode-uygulamas%C4%B1-yap%C4%B1m%C4%B1-501266e67041?source=rss-d8f584a0c3d7------2)
+- [Etkili Dart #1 — Tarz](https://dev-kerimbora.medium.com/etkili-dart-1-tarz-36ad8d3c7576?source=rss-d8f584a0c3d7------2)
+- [Flutter Scaffold Widget Nedir ?](https://dev-kerimbora.medium.com/flutter-scaffold-widget-nedir-9c2e28637ee9?source=rss-d8f584a0c3d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
