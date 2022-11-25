@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Flutter Developer from Turkey</h3>
 
 
-- 🌱 I am working on it **Kotlin, Flutter, NodeJS**
+- 🌱 I am working on **Kotlin, Flutter, NodeJS**
 
 - 🌌 Website [https://kerimbr.com/#/](https://kerimbr.com/#/)
 
