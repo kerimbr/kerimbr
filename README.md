@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerim</h1>
-<h3 align="center">A passionate Flutter Developer from Turkey</h3>
+<h3 align="center">A passionate Mobile Application Developer from Turkey</h3>
 
 
 - 🌱 I am working on **Kotlin, Flutter, NodeJS**
@@ -10,14 +10,12 @@
 
 
 <p align="center">
- <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
- <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/React%20-1f292b.svg?&style=for-the-badge&logo=react&logoColor=white">
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+ <img src="https://img.shields.io/badge/React%20-1f292b.svg?&style=for-the-badge&logo=react&logoColor=white">
 </p>
 
 ### Blogs posts
