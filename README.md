@@ -20,6 +20,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Projelerinizi Güvenli Tutun: Flutter &amp; Dart Testleri ve “flutter_test” paketi](https://dev-kerimbora.medium.com/flutter-dart-testleri-ve-flutter-test-paketi-a8d70c2a684b?source=rss-d8f584a0c3d7------2)
 - [Flutter Bloc ve Cubit &lpar;v8.1.0&rpar; Temelleri](https://dev-kerimbora.medium.com/flutter-bloc-ve-cubit-v8-1-0-a0d573bfb8dc?source=rss-d8f584a0c3d7------2)
 - [Flutter Ortam Değişkenleri &lpar;Environment Variables&rpar;](https://dev-kerimbora.medium.com/flutter-ortam-de%C4%9Fi%C5%9Fkenleri-environment-variables-e348ac96fbd6?source=rss-d8f584a0c3d7------2)
 - [Flutter İle QRCode Uygulaması Yapımı](https://dev-kerimbora.medium.com/flutter-i%CC%87le-qrcode-uygulamas%C4%B1-yap%C4%B1m%C4%B1-501266e67041?source=rss-d8f584a0c3d7------2)
