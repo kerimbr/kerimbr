@@ -20,6 +20,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Android Custom Keyboard: Uygulamalardaki Gizli Tehlike ve Keylogger Riski ️](https://medium.com/appcent/android-third-party-keyboard-security-how-to-protect-against-keyloggers-534696eea16e?source=rss-d8f584a0c3d7------2)
 - [Jetpack Compose Basic Navigation](https://medium.com/appcent/jetpack-compose-navigation-basics-0be79343d252?source=rss-d8f584a0c3d7------2)
 - [Jetpack Compose’ da CompositionLocal Kullanımı: Bileşenler Arası Veri Paylaşımı &lpar;Provider Pattern&rpar;](https://medium.com/appcent/jetpack-compose-da-compositionlocal-kullan%C4%B1m%C4%B1-bile%C5%9Fenler-aras%C4%B1-veri-payla%C5%9F%C4%B1m%C4%B1-provider-pattern-f389f77f4ccc?source=rss-d8f584a0c3d7------2)
 - [Jetpack Compose’ da Side-Effects: Uygulamanızı Etkileşimli Hale Getirin](https://dev-kerimbora.medium.com/jetpack-compose-side-effects-aea19ea40642?source=rss-d8f584a0c3d7------2)
@@ -29,7 +30,6 @@
 - [Flutter Ortam Değişkenleri &lpar;Environment Variables&rpar;](https://dev-kerimbora.medium.com/flutter-ortam-de%C4%9Fi%C5%9Fkenleri-environment-variables-e348ac96fbd6?source=rss-d8f584a0c3d7------2)
 - [Flutter İle QRCode Uygulaması Yapımı](https://dev-kerimbora.medium.com/flutter-i%CC%87le-qrcode-uygulamas%C4%B1-yap%C4%B1m%C4%B1-501266e67041?source=rss-d8f584a0c3d7------2)
 - [Etkili Dart #1 — Tarz](https://dev-kerimbora.medium.com/etkili-dart-1-tarz-36ad8d3c7576?source=rss-d8f584a0c3d7------2)
-- [Flutter Scaffold Widget Nedir ?](https://dev-kerimbora.medium.com/flutter-scaffold-widget-nedir-9c2e28637ee9?source=rss-d8f584a0c3d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
