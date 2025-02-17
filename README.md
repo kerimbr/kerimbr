@@ -1,24 +1,34 @@
-<h1 align="center">Hi 👋, I'm Kerim</h1>
-<h3 align="center">A passionate Mobile Application Developer from Turkey</h3>
+# Hi, I'm Kerim 👋
+
+I'm an **Android Developer** from Turkey who loves building modern mobile apps with Kotlin and the latest Android technologies.
 
 
-- 🌱 I am working on **Kotlin, Flutter, NodeJS**
+## About Me
 
-- 🌌 Website [https://kerimbr.com/#/](https://kerimbr.com/#/)
+- 🔭 **Focus:** I specialize in Android development, building feature-rich apps with Jetpack Compose, MVVM, and Clean Architecture.
+- 🌱 **Learning:** I'm constantly enhancing my skills in advanced Android patterns and performance optimization.
+- 💡 **Side Projects:** I occasionally explore Flutter, NodeJS, and Unity projects to broaden my technical horizons.
+- 📫 **Contact:** [dev.kerimbora@gmail.com](mailto:dev.kerimbora@gmail.com)
+- 🌐 **Website:** [kerimbr.com](http://kerimbr.com/#/)
 
-- 📫 How to reach me **dev.kerimbora@gmail.com**
+## Technologies & Tools
 
+**Languages & Frameworks:**
 
-<p align="center">
- <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
- <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
- <img src="https://img.shields.io/badge/React%20-1f292b.svg?&style=for-the-badge&logo=react&logoColor=white">
-</p>
+![Kotlin](https://img.shields.io/badge/Kotlin-FF8C00?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpack%20compose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
-### Blogs posts
+## Featured Projects
+
+- **[KotNews](https://github.com/kerimbr/KotNews):** A robust news tracking Android app built with Kotlin and designed using MVVM Clean Architecture.
+- **[RJGames-Jetpack-Compose-Rawg.io-API](https://github.com/kerimbr/RJGames-Jetpack-Compose-Rawg.io-API):** An Android application demonstrating the power of Jetpack Compose integrated with the Rawg.io API for an immersive gaming experience.
+- **[ComposeDex](https://github.com/kerimbr/ComposeDex):** A modern Pokedex app that leverages Jetpack Compose, Hilt, and Coroutines to deliver a smooth, responsive UI.
+
+## Blog Posts & Articles
 <!-- BLOG-POST-LIST:START -->
 - [Jetpack Compose Material Design 3: Floating Action Buttons &lpar;FAB&rpar;](https://medium.com/appcent/jetpack-compose-material-design-3-floating-action-buttons-c6e58f96c9ca?source=rss-d8f584a0c3d7------2)
 - [Jetpack Compose Material Design 3: Bottom Sheets](https://medium.com/appcent/jetpack-compose-material-design-3-bottom-sheets-bd47f72eda42?source=rss-d8f584a0c3d7------2)
